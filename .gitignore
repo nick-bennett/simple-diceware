@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.floo
+.flooignore
+derby.log
+/diceware_db/
